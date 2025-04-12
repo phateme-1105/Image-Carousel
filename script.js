@@ -1,7 +1,7 @@
 const cards = [
   {
     id: 1,
-    img: "/asset/development.png",
+    img: "./asset/development.png",
     tag: "development",
     title: "Best Frontend Frameworks",
     text: `  A comprehensive comparison of the most popular Frontend
@@ -13,7 +13,7 @@ const cards = [
   },
   {
     id: 2,
-    img: "/asset/UIdesigner.jpg",
+    img: "./asset/UIdesigner.jpg",
     Tag: "UI designer",
     title: "Modern UI Trend for 2025",
     text: ` Explore the latest user interface design trends that are shaping
@@ -24,7 +24,7 @@ const cards = [
   },
   {
     id: 3,
-    img: "/asset/AIUser@2x.webp",
+    img: "./asset/AIUser@2x.webp",
     Tag: "AI",
     title: "AI User Experience Design",
     text: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos
@@ -36,7 +36,7 @@ const cards = [
   },
   {
     id: 4,
-    img: "/asset/workSpace.jpg",
+    img: "./asset/workSpace.jpg",
     Tag: "Productivity",
     title: "Workspace Design Focus",
     text: ` Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos
@@ -48,7 +48,7 @@ const cards = [
   },
   {
     id: 5,
-    img: "/asset/workSpace.jpg",
+    img: "./asset/workSpace.jpg",
     Tag: "Animation",
     title: "Micro Animation Design",
     text: ` Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos
